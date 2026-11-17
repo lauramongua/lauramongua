@@ -53,11 +53,9 @@
 
 ---
 
-### 📈 Actividad y Estadísticas en Tiempo Real
+### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lauramongua&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauramongua&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauramongua&theme=tokyonight" alt="Resumen de actividad" />
@@ -71,5 +69,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="
-  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>

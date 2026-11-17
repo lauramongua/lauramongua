@@ -64,13 +64,11 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lauramongua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lauramongua&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
----
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauramongua&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauramongua&theme=tokyonight" alt="Resumen de actividad" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauramongua&theme=tokyonight" alt="Lenguajes por repositorio" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauramongua&theme=tokyonight" alt="Lenguajes con más commits" />
 </div>

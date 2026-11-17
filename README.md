@@ -62,8 +62,6 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauramongua&theme=tokyonight" alt="Lenguajes por repositorio" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauramongua&theme=tokyonight" alt="Lenguajes con más commits" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase dinámica" />
 </div>
 
 ---

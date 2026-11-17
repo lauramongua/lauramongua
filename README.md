@@ -8,10 +8,10 @@
 
 ### 🚀 Sobre mí
 
-* 🎓 Actualmente cursando **2º de DAW** (Desarrollo de Aplicaciones Web).
-* 💻 Sólida base en **Java** y desarrollando proyectos con **Spring Boot, Python, JavaScript, Node.js y PHP**.
-* 🤖 Apasionada por la **visión artificial, bots de automatización e inteligencia artificial** aplicada al estudio.
-* 🎯 Buscando seguir creciendo como desarrolladora Full Stack / Backend y aportar valor en proyectos reales.
+- 🎓 Actualmente cursando **2º de DAW** (Desarrollo de Aplicaciones Web).
+- 💻 Sólida base en **Java** y desarrollando proyectos con **Spring Boot, Python, JavaScript, Node.js y PHP**.
+- 🤖 Apasionada por la **visión artificial, bots de automatización e inteligencia artificial** aplicada al estudio.
+- 🎯 Buscando seguir creciendo como desarrolladora Full Stack / Backend y aportar valor en proyectos reales.
 
 ---
 
@@ -53,15 +53,19 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📈 Actividad y Estadísticas en Tiempo Real
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lauramongua&theme=tokyo-night&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauramongua&theme=tokyonight" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauramongua&theme=tokyonight" alt="Resumen de actividad" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauramongua&theme=tokyonight" alt="Lenguajes por repositorio" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauramongua&theme=tokyonight" alt="Lenguajes con más commits" />
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase dinámica" />
 </div>
 
 ---

@@ -18,6 +18,32 @@
 
 ---
 
+### 🌟 Proyecto Destacado: Análisis de Lenguaje Corporal
+
+<div align="center">
+  <a href="https://github.com/lauramongua/análisis_lenguaje_corporal">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lauramongua&repo=análisis_lenguaje_corporal&theme=tokyonight&show_owner=true" alt="análisis_lenguaje_corporal" />
+  </a>
+</div>
+
+> **¿En qué consiste?**  
+> Proyecto desarrollado en **Python** enfocado en la **visión artificial y el reconocimiento de posturas**. Analiza e interpreta gestos y movimientos corporales en tiempo real mediante procesamiento de imagen, permitiendo detectar patrones de comunicación no verbal de forma automatizada.
+>
+> **Tecnologías principales:** `Python` • `Visión Artificial` • `Procesamiento de Imagen`
+
+---
+
+### 📂 Otros Proyectos Interesantes
+
+| Proyecto | Descripción | Tecnología |
+| :--- | :--- | :---: |
+| **[Control gestual](https://github.com/lauramongua/Control-gestual)** | Sistema de interacción y control por gestos mediante cámara y visión artificial. | `Python` |
+| **[bot_tareas](https://github.com/lauramongua/bot_tareas)** | Bot automatizado diseñado para gestionar, organizar y recordar tareas pendientes. | `Python` |
+| **[ia_estudio](https://github.com/lauramongua/ia_estudio)** | Herramienta web enfocada en optimizar el aprendizaje mediante Inteligencia Artificial. | `HTML / Web` |
+| **[Desafío](https://github.com/lauramongua/Desafío)** | Aplicación interactiva orientada a la lógica y resolución de retos en el navegador. | `JavaScript` |
+
+---
+
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes y Frameworks:**
@@ -39,8 +65,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lauramongua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauramongua&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lauramongua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lauramongua&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
 ---
